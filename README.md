@@ -37,7 +37,3 @@ This runs the CLI database system.
 
 ## Customization
 Since essential utilities (functions) are written in separate files based on their use cases, modifying and extending the project is straightforward.
-
-## License
-This project is released under [your preferred license].
-
